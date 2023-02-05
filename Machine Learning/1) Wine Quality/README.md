@@ -1,6 +1,7 @@
-# ML_DL_AI_Portfolio
+# Red Wine Quality 
 
-STEPS:
+Project approach:
 
--   1) Problem understanding
+- 1) Problem understanding
+-  
 -   
