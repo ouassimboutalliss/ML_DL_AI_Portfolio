@@ -2,6 +2,6 @@
 
 Project approach:
 
--   1) Problem understanding
+-     1) Problem understanding
 -  
 -   
