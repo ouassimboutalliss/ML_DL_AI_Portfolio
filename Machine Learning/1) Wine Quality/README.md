@@ -16,4 +16,7 @@
 12) Save model (pickle)
 13) Documenting work
 
+## Summary
+
+
 ## Code and Resources Used 
