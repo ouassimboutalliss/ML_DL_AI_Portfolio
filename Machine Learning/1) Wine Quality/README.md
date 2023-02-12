@@ -34,9 +34,29 @@ Requirements install:
 
 ## Data Cleaning
 I needed to clean the data up so that it was usable for our model. I made the following changes.
+.....
 
 ## Exploring Data Analysis
 I looked at the distribution of the data and the value counts for the various categorical variable. 
 After that, I studied the relationships and the correlations between features. 
 Below are a few highlights from the dataset. 
+.....
+
+## Model Building
+First, I transformed the continuous variable into 2 categorics (bad/good wines). After that, I splitted the data into train and tests set with a test size of 20 %.
+Ofcourse I normalized the train & test set. 
+
+ook pca 
+
+I tried .. different models and evaluated them and using the accuraty and f1 score, ...
+
+
+## Model Preformance
+The ..... model is by far the best performing model. 
+
+models....
+
+## Productionization
+In this step, I built a Flask API endpoint that was hosted on a local webserver. 
+The API Endpoint takes a request with a list of values from a wine and returns the estimated  class.
 
