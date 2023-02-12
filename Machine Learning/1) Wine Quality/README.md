@@ -1,5 +1,10 @@
 # Red Wine Quality 
 
+
+
+## Summary
+
+
 ## Project approach:
 
 1) Problem understanding
@@ -16,7 +21,6 @@
 12) Save model (pickle)
 13) Documenting work
 
-## Summary
 
 
 ## Code and Resources Used 
