@@ -19,8 +19,24 @@
 10) Hyperparameter tuning (grid search, ...)
 11) Prediction
 12) Save model (pickle)
-13) Documenting work
+13) Build flask api 
+14) Documenting work
 
 
 
 ## Code and Resources Used 
+Python Version:
+Used Packages:
+Requirements install:
+
+## Dataset 
+....
+
+## Data Cleaning
+I needed to clean the data up so that it was usable for our model. I made the following changes.
+
+## Exploring Data Analysis
+I looked at the distribution of the data and the value counts for the various categorical variable. 
+After that, I studied the relationships and the correlations between features. 
+Below are a few highlights from the dataset. 
+
