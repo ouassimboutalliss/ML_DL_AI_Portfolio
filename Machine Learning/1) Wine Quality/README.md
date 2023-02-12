@@ -1,6 +1,6 @@
 # Red Wine Quality 
 
-Project approach:
+## Project approach:
 
 1) Problem understanding
 2) Load data
@@ -14,3 +14,6 @@ Project approach:
 10) Hyperparameter tuning (grid search, ...)
 11) Prediction
 12) Save model (pickle)
+13) Documenting work
+
+## Code and Resources Used 
