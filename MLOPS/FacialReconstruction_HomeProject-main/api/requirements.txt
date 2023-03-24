@@ -1,8 +1,0 @@
-fastapi[all]
-azureml.core
-tensorflow
-numpy
-pillow  
-uvicorn
-scikit-image
-matplotlib
