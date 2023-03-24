@@ -15,8 +15,8 @@
 6) Data preprocessing (split training/test, normalize, pca, feature engineering, ...)
 7) Choosing model (based on problem/target (supervised, unsupervised)
 8) Train model
-9) Evaluating model
-10) Hyperparameter tuning (grid search, ...)
+9) Hyperparameter tuning (grid search, ...)
+10) Evaluating model
 11) Prediction
 12) Save model (pickle)
 13) Build flask api 
