@@ -7,9 +7,6 @@
 
 **Requirements packages install**: requirements.txt
 
-## Dataset 
-https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
-
 ## Summary Project
 The datasets are related to red variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
@@ -21,6 +18,14 @@ Input variables (based on physicochemical tests): 1 - fixed acidity 2 - volatile
 The goal of this project is:
   - to understand which features make it a good wine
   - to predict if a wine is bad or a good (binairy classes)
+
+## 2) Dataset
+I downloaded the datset from Kaggle: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+The dataset has 1599 rows and 12 columns. 
+
+Input variables (based on physicochemical tests): 1 - fixed acidity 2 - volatile acidity 3 - citric acid 4 - residual sugar 5 - chlorides 6 - free sulfur dioxide 7 - total sulfur dioxide 8 - density 9 - pH 10 - sulphates 11 - alcohol Output variable (based on sensory data): 12 - quality (score between 0 and 10)
+
+
 
 ## Data Cleaning
 I needed to clean the data up so that it was usable for our model. I made the following changes.
