@@ -19,7 +19,7 @@ Input variables (based on physicochemical tests): 1 - fixed acidity 2 - volatile
 
 ## 1) Problem Understanding
 The goal of this project is:
-  - to understand which features makes it a good wine
+  - to understand which features make it a good wine
   - to predict if a wine is bad or a good wine (binairy classes)
 
 ## Data Cleaning
