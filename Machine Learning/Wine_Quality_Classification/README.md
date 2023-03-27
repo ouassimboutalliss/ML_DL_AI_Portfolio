@@ -20,6 +20,7 @@ The goal of this project is:
   - to predict if a wine is bad or a good (binairy classes)
 
 ## 2) Dataset
+
 The datasets are related to red variants of the Portuguese "Vinho Verde" wine.
 
 I downloaded the datset from Kaggle: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
