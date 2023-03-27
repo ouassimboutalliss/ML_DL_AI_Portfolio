@@ -10,6 +10,7 @@ Input variables (based on physicochemical tests): 1 - fixed acidity 2 - volatile
 
 ## Code and Resources Used 
 Python Version: 3.8
+
 Requirements install: requirements.txt
 
 ## Dataset 
