@@ -1,33 +1,17 @@
 # Red Wine Quality 
 
+## Summary 
+The datasets are related to red variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
+These datasets can be viewed as classification tasks (good/bad). The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).
 
-## Summary
-
-
-## Project approach:
-
-1) Problem understanding
-2) Load data
-3) Data exploring (check on inconsistent data, ...
-4) Clean data (outliers, missing data, ...)
-5) Analyse/visualize cleaned data (corr, describe dataset, ...)
-6) Data preprocessing (split training/test, normalize, pca, feature engineering, ...)
-7) Choosing model (based on problem/target (supervised, unsupervised)
-8) Train model
-9) Hyperparameter tuning (grid search, ...)
-10) Evaluating model
-11) Prediction
-12) Save model (pickle)
-13) Build flask api 
-14) Documenting work
-
+Input variables (based on physicochemical tests): 1 - fixed acidity 2 - volatile acidity 3 - citric acid 4 - residual sugar 5 - chlorides 6 - free sulfur dioxide 7 - total sulfur dioxide 8 - density 9 - pH 10 - sulphates 11 - alcohol Output variable (based on sensory data): 12 - quality (score between 0 and 10)
 
 
 ## Code and Resources Used 
-Python Version:
-Used Packages:
-Requirements install:
+Python Version: 3.8
+
+Requirements install: requirements.txt
 
 ## Dataset 
 ....
