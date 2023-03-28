@@ -28,12 +28,21 @@ I downloaded the datset from Kaggle: https://www.kaggle.com/datasets/uciml/red-w
 Input variables (based on physicochemical tests): 1 - fixed acidity 2 - volatile acidity 3 - citric acid 4 - residual sugar 5 - chlorides 6 - free sulfur dioxide 7 - total sulfur dioxide 8 - density 9 - pH 10 - sulphates 11 - alcohol Output variable (based on sensory data): 12 - quality (score between 0 and 10)
 
 
+## 3) Exploring Data Analysis (before cleaning)
+I looked at the distribution of the data and i noticed that the dataset has problematic outliers.
+
+After that i check on dublicated rows
+
+Below are a few highlights from the dataset. 
+.....
+
+
 ## Data Cleaning
 I needed to clean the data up so that it was usable for our model. I made the following changes.
 .....
 
-## Exploring Data Analysis
-I looked at the distribution of the data and the value counts for the various categorical variable. 
+## 3) Exploring Data Analysis (before cleaning)
+I looked at the distribution of the data 
 After that, I studied the relationships and the correlations between features. 
 Below are a few highlights from the dataset. 
 .....
