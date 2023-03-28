@@ -17,7 +17,7 @@ Input variables (based on physicochemical tests): 1 - fixed acidity 2 - volatile
 ## 1) Problem Understanding
 The goal of this project is:
   - to understand which features make it a good wine
-  - to predict if a wine is bad or a good (binairy classes)
+  - to predict if a wine is bad or good (binairy classes)
 
 ## 2) Dataset
 
@@ -31,7 +31,7 @@ Input variables (based on physicochemical tests): 1 - fixed acidity 2 - volatile
 ## 3) Exploring Data Analysis (before cleaning)
 I looked at the distribution of the data and i noticed that the dataset has problematic outliers.
 
-After that i check on dublicated rows
+After that i check on dublicated rows.
 
 Below are a few highlights from the dataset. 
 .....
