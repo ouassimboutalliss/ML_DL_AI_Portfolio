@@ -34,7 +34,9 @@ I looked at the distribution of the data and i noticed that the dataset has prob
 After that i check on dublicated rows.
 
 Below are a few highlights from the dataset. 
-.....
+
+![distribution](https://user-images.githubusercontent.com/43603147/228236149-a211f1cc-e800-4b31-979d-37f759190b18.PNG)
+
 
 
 ## Data Cleaning
