@@ -29,9 +29,9 @@ Input variables (based on physicochemical tests): 1 - fixed acidity 2 - volatile
 
 
 ## 3) Exploring Data Analysis (before cleaning)
-I looked at the distribution of the data and i noticed that the dataset has problematic outliers.
+I looked at the distribution of the data and noticed that the dataset has a lot of problematic outliers.
 
-After that i check on dublicated rows.
+After that, I checked for duplicated rows.
 
 Below are a few highlights from the dataset. 
 
