@@ -36,21 +36,15 @@ After that, I checked for duplicated rows.
 Below are a few highlights from the dataset. 
 
 
+
 **Distribution**: 
 
-
-
-
-[distribution](https://user-images.githubusercontent.com/43603147/228236149-a211f1cc-e800-4b31-979d-37f759190b18.PNG)
-
-
+![distribution](https://user-images.githubusercontent.com/43603147/228236149-a211f1cc-e800-4b31-979d-37f759190b18.PNG)
 
 
 **Dublicated Rows**:
 
-
-
-[dublicated_rows](https://user-images.githubusercontent.com/43603147/228237162-91c5d576-af19-44b6-bfa6-00363297b7ae.PNG)
+![dublicated_rows](https://user-images.githubusercontent.com/43603147/228237162-91c5d576-af19-44b6-bfa6-00363297b7ae.PNG)
 
 
 ## Data Cleaning
