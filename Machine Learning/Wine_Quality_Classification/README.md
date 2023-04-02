@@ -39,9 +39,11 @@ Below are a few highlights from the dataset.
 
 **Distribution**: 
 
+![stats_data_before](https://user-images.githubusercontent.com/43603147/229358659-bc1ccabe-8a4b-4289-a0f1-13e2ab74a2a4.png)
+
+
 ![distribution](https://user-images.githubusercontent.com/43603147/228236149-a211f1cc-e800-4b31-979d-37f759190b18.PNG)
 
-![stats_data_before](https://user-images.githubusercontent.com/43603147/229358659-bc1ccabe-8a4b-4289-a0f1-13e2ab74a2a4.png)
 
 **Duplicated  Rows**:
 
