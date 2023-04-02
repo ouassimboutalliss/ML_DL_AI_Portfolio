@@ -41,6 +41,8 @@ Below are a few highlights from the dataset.
 
 ![distribution](https://user-images.githubusercontent.com/43603147/228236149-a211f1cc-e800-4b31-979d-37f759190b18.PNG)
 
+![stats_data](https://user-images.githubusercontent.com/43603147/229358133-8d3bf858-ab92-4686-9e95-8b453d434bad.png)
+
 
 **Duplicated  Rows**:
 
