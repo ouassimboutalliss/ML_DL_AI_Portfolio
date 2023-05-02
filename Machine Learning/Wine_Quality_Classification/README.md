@@ -64,17 +64,4 @@ Below are a few highlights from the dataset.
 First, I transformed the continuous variable into 2 categorics (bad/good wines). After that, I splitted the data into train and tests set with a test size of 20 %.
 Ofcourse I normalized the train & test set. 
 
-ook pca 
-
-I tried .. different models and evaluated them and using the accuraty and f1 score, ...
-
-
-## Model Preformance
-The ..... model is by far the best performing model. 
-
-models....
-
-## Productionization
-In this step, I built a Flask API endpoint that was hosted on a local webserver. 
-The API Endpoint takes a request with a list of values from a wine and returns the estimated  class.
 
