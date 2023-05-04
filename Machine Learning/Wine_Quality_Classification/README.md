@@ -65,4 +65,4 @@ First, I transformed the continuous variable into 2 categorics (bad/good wines).
 Ofcourse I normalized the train & test set. 
 
 
-This hasn't been updated.
+## This hasn't been updated.
