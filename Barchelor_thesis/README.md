@@ -1,18 +1,17 @@
 # How can the detection of brain tumors be automated?
+The primary research question of this bachelor's thesis is focused on automating the detection of brain tumors to ensure early and accurate diagnosis and potentially save patients' lives.
 
-The research question of this bachelor thesis is “How can the detection of brain tumors be automated?”. With this research question, I want to ensure that brain tumors can be detected early and accurately and save a patient's life.
+The research is divided into two parts: the first part aims to classify brain tumors using various CNN models, while the second part deals with segmenting the tumor itself using UNet and Deeplabv3+ models.
 
-This research is divided into two parts. One part deals with classifying brain tumors. Different CNN models were used for this. The second part deals with segmenting the tumor itself. Two different segmentation models were used for this: UNet and Deeplabv3+.
+Based on several tests performed, the research evaluates the most practical implementation methods, considering accuracy, f1 score of the tumor class, and training speed.
 
-On the basis of the various tests performed, it is evaluated which methods of practical implementation would work best. In particular, the accuracy, f1 score of the tumor class and the training speed are taken into account.
+The accuracy and number of false positives are crucial aspects of brain tumor classification since it can be life-threatening if the model makes more false negatives (tumor present but not predicted) than false positives (false alarm of tumor). In the segmentation part, dice_coef, training rate, and reconstructed images are critical.
 
-The number of false positives and the accuracy are very important aspects in classifying the brain tumors. It is very crucial that the model makes more false positives (false alarm of tumor) predictions than false negatives (tumor present, but not predicted). This is because it can save a life. In the segmentation part, the dice_coef, training rate and the reconstructed images are critical.
+The research demonstrated that ensemble learning outperformed single model prediction in achieving better results.
 
-This study showed that ensemble learning achieved better results than when using a single model for predictions. 
+In conclusion, this study indicates that the detection of brain tumors can be automated using Deep Learning techniques, and the proof-of-concept application based on high-accuracy models confirms its feasibility.
 
-The conclusion of this study is that it is possible to automate the detection of brain tumors by using of Deep Learning techniques.
-
-The models used in the proof of concept application achieved a very high accuracy score.
+The research file and proof of concept application are available as:
 
 - Research file ->>  Research_project.ipynb
 - Proof of concept application ->> Application_tumor_detection.ipynb
