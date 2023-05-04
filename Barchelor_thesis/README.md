@@ -15,3 +15,5 @@ The research file and proof of concept application are available as:
 
 - Research file ->>  Research_project.ipynb
 - Proof of concept application ->> Application_tumor_detection.ipynb
+
+The bachelor's thesis is written in Dutch. If you have any questions, please do not hesitate to contact me at ouassim.boutalliss@hotmail.com."
