@@ -1,3 +1,0 @@
-https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?select=marketing_campaign.csv
-
-https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering/notebook#CONCLUSION
