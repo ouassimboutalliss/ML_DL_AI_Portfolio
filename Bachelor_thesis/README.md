@@ -1,4 +1,4 @@
-# How can the detection of brain tumors be automated?
+# How to automate the detection of brain tumor
 The primary research question of this bachelor's thesis is focused on automating the detection of brain tumors to ensure early and accurate diagnosis and potentially save patients' lives.
 
 The research is divided into two parts: the first part aims to classify brain tumors using various CNN models, while the second part deals with segmenting the tumor itself using UNet and Deeplabv3+ models.
