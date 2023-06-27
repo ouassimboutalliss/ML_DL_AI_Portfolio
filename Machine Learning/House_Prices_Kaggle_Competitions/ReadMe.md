@@ -4,6 +4,8 @@
 ## Statement
 In this notebook, I aim to demonstrate my regression skills in a concise and efficient manner. I will showcase my proficiency in various regression tasks, including data preprocessing, feature engineering, model selection, and evaluation. 
 
+Time: 6h-10h
+
 
 ## Code and Resources Used 
 **Python Version**: 3.8
